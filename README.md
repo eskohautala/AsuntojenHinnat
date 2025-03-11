@@ -1,7 +1,6 @@
-# AsuntojenHinnat
-## Projektin kuvaus
+# Projektin kuvaus
 Tämä projekti analysoi vuokrayksiöiden mediaanihintojen kehitystä Suomen suurimmissa kaupungeissa vuosien 2020–2024 aikana. Tarkastelun kohteena ovat asuntojen hintojen kehitys eri kaupungeissa sekä hintojen kokonaiskasvu suhteessa inflaatioon.
-# Analyysin vaiheet
+## Analyysin vaiheet
 
 ## Datan lataaminen ja esikäsittely
 Asuntojen hintatiedot (AsuntojenHinnat.csv) ja inflaatiotiedot (Inflaatio.csv) luettiin Pandas-kirjaston avulla.
